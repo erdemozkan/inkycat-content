@@ -1,0 +1,47 @@
+{
+  "id": "istanbul-cats",
+  "version": 1,
+  "title": "Cats of Istanbul",
+  "subtitle": "İstanbul'un Kedileri",
+  "accent": "#5BC8E8",
+  "pages": [
+    {
+      "id": "ist-galata",
+      "title": "Galata Tower",
+      "subtitle": "Galata Kulesi",
+      "story": "Every rooftop in Galata has a cat. This one has the best view."
+    },
+    {
+      "id": "ist-ferry",
+      "title": "Ferry Ride",
+      "subtitle": "Vapur",
+      "story": "Simit on the ferry rail, a seagull overhead. Only one of them will get it."
+    },
+    {
+      "id": "ist-simit",
+      "title": "Simit Seller",
+      "subtitle": "Simitçi",
+      "story": "The simit man always saves one for the cat on the corner."
+    },
+    {
+      "id": "ist-cay",
+      "title": "Çay Time",
+      "subtitle": "Çay saati",
+      "story": "Two glasses of çay, one warm carpet, zero worries."
+    }
+  ],
+  "files": [
+    "ist-galata-lines.png",
+    "ist-galata-mask.png",
+    "ist-galata-thumb.png",
+    "ist-ferry-lines.png",
+    "ist-ferry-mask.png",
+    "ist-ferry-thumb.png",
+    "ist-simit-lines.png",
+    "ist-simit-mask.png",
+    "ist-simit-thumb.png",
+    "ist-cay-lines.png",
+    "ist-cay-mask.png",
+    "ist-cay-thumb.png"
+  ]
+}

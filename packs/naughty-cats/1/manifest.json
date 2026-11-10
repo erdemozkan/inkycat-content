@@ -1,0 +1,74 @@
+{
+  "id": "naughty-cats",
+  "version": 1,
+  "title": "Naughty Cats",
+  "subtitle": "いたずらねこ",
+  "accent": "#FFD54A",
+  "pages": [
+    {
+      "id": "oops",
+      "title": "Oops!",
+      "subtitle": "あっ！",
+      "story": "Whiskers pushed the mug off the table. Totally on purpose!"
+    },
+    {
+      "id": "tp",
+      "title": "TP Party!",
+      "subtitle": "ころころ",
+      "story": "Mittens unrolled ALL the toilet paper. Best. Day. Ever."
+    },
+    {
+      "id": "fish",
+      "title": "Fish Thief",
+      "subtitle": "さかなどろぼう",
+      "story": "Who stole the fish? Definitely not Tiger. (It was Tiger.)"
+    },
+    {
+      "id": "tangled",
+      "title": "Tangled!",
+      "subtitle": "からまった",
+      "story": "Luna helped with the knitting. Now EVERYTHING is tangled!"
+    },
+    {
+      "id": "hang",
+      "title": "Hang in There!",
+      "subtitle": "がんばれ",
+      "story": "Shadow ignored the scratching post and climbed the curtains."
+    },
+    {
+      "id": "nap",
+      "title": "Keyboard Nap",
+      "subtitle": "おひるね",
+      "story": "Pumpkin fell asleep on the laptop and wrote a VERY long email."
+    },
+    {
+      "id": "cover",
+      "title": "Bonus: The Cover",
+      "subtitle": "いたずらねこ",
+      "story": "Color the cover, then write your name on it!"
+    }
+  ],
+  "files": [
+    "oops-lines.png",
+    "oops-mask.png",
+    "oops-thumb.png",
+    "tp-lines.png",
+    "tp-mask.png",
+    "tp-thumb.png",
+    "fish-lines.png",
+    "fish-mask.png",
+    "fish-thumb.png",
+    "tangled-lines.png",
+    "tangled-mask.png",
+    "tangled-thumb.png",
+    "hang-lines.png",
+    "hang-mask.png",
+    "hang-thumb.png",
+    "nap-lines.png",
+    "nap-mask.png",
+    "nap-thumb.png",
+    "cover-lines.png",
+    "cover-mask.png",
+    "cover-thumb.png"
+  ]
+}

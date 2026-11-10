@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "naughty-cats",
+      "version": 1,
+      "title": "Naughty Cats",
+      "subtitle": "いたずらねこ",
+      "accent": "#FFD54A",
+      "pageCount": 7,
+      "cover": "oops",
+      "path": "packs/naughty-cats/1/",
+      "sizeBytes": 1191263,
+      "tags": [
+        "cats",
+        "anime"
+      ],
+      "order": 10
+    },
+    {
+      "id": "autumn-vermont",
+      "version": 1,
+      "title": "Autumn in Vermont",
+      "subtitle": "Fall foliage",
+      "accent": "#F4A259",
+      "pageCount": 4,
+      "cover": "vt-leaves",
+      "path": "packs/autumn-vermont/1/",
+      "sizeBytes": 1111298,
+      "tags": [
+        "seasonal",
+        "autumn",
+        "nature"
+      ],
+      "order": 20
+    },
+    {
+      "id": "istanbul-cats",
+      "version": 1,
+      "title": "Cats of Istanbul",
+      "subtitle": "İstanbul'un Kedileri",
+      "accent": "#5BC8E8",
+      "pageCount": 4,
+      "cover": "ist-galata",
+      "path": "packs/istanbul-cats/1/",
+      "sizeBytes": 763293,
+      "tags": [
+        "cats",
+        "travel"
+      ],
+      "order": 30
+    }
+  ],
+  "featured": [
+    {
+      "from": "09-15",
+      "to": "11-30",
+      "title": "Autumn is here",
+      "subtitle": "Maple leaves, a covered bridge and a pumpkin patch",
+      "pack": "autumn-vermont"
+    }
+  ]
+}

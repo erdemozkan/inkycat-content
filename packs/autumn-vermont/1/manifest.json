@@ -1,0 +1,47 @@
+{
+  "id": "autumn-vermont",
+  "version": 1,
+  "title": "Autumn in Vermont",
+  "subtitle": "Fall foliage",
+  "accent": "#F4A259",
+  "pages": [
+    {
+      "id": "vt-leaves",
+      "title": "Falling Leaves",
+      "subtitle": "Vermont",
+      "story": "Maple catches every leaf the wind lets go. Almost every leaf."
+    },
+    {
+      "id": "vt-bridge",
+      "title": "Covered Bridge",
+      "subtitle": "Vermont",
+      "story": "Patch has been fishing under the red bridge since breakfast. No fish yet. Lots of leaves."
+    },
+    {
+      "id": "vt-pumpkins",
+      "title": "Pumpkin Patch",
+      "subtitle": "Vermont",
+      "story": "Ginger guards the biggest pumpkin on the farm. Nobody asked her to."
+    },
+    {
+      "id": "vt-village",
+      "title": "Little Village",
+      "subtitle": "Vermont",
+      "story": "From the old stone wall you can see the whole village turn red and gold."
+    }
+  ],
+  "files": [
+    "vt-leaves-lines.png",
+    "vt-leaves-mask.png",
+    "vt-leaves-thumb.png",
+    "vt-bridge-lines.png",
+    "vt-bridge-mask.png",
+    "vt-bridge-thumb.png",
+    "vt-pumpkins-lines.png",
+    "vt-pumpkins-mask.png",
+    "vt-pumpkins-thumb.png",
+    "vt-village-lines.png",
+    "vt-village-mask.png",
+    "vt-village-thumb.png"
+  ]
+}
